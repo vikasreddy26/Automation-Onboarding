@@ -1,0 +1,1 @@
+Product{name='Fan', price=1600.0, category='Electronics', grade='A'}
